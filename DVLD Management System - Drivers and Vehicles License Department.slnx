@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../DVLD - Business Layer/DVLD - Business Layer.csproj" Id="8c25fbd3-28d8-46fe-ac55-8f66bba96684" />
+  <Project Path="DVLD - DataAccess Layer/DVLD - DataAccess Layer.csproj" Id="fb3c5707-7ccf-4594-9afb-ebfe2fa493de" />
+  <Project Path="DVLD Management System - UI Layer.csproj" Id="e18bbe04-bac2-4764-8854-ebe2ce5ad4b7" />
+</Solution>
