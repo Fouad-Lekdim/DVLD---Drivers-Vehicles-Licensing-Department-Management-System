@@ -1,4 +1,5 @@
 *.cs linguist-language=C#
+*.cs linguist-detectable=true
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
