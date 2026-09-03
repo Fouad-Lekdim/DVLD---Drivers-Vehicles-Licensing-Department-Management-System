@@ -1,3 +1,3 @@
 ## 🎬 Demo
 
-▶️ [Watch Part 1 demo on LinkedIn](https://lnkd.in/p/enU9xxdK)
+▶️ [Part 1 - People Management | Watch on LinkedIn](https://lnkd.in/p/enU9xxdK)
